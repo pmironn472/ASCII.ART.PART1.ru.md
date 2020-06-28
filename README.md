@@ -1,0 +1,1 @@
+# ASCII.ART.PART1.ru.md
