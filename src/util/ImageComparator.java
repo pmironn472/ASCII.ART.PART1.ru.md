@@ -14,7 +14,7 @@ public class ImageComparator {
         int c, b;
         while ((c = br.read()) != -1) {
             b = br1.read();
-            if (c == b) return 0;
+            if (c == b) return count = 0 ;
             else count++;
         }
         return count;
